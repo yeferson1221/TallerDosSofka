@@ -19,7 +19,7 @@ public class Main {
             System.out.println("Hola Tripulante con este sistema aprenderas hacerca de naves ESPACIALES sigue los pasos para ver que tipo de nave creas");
             System.out.println("[*************PUEDES CREAR CUATRO TIPOS DE NAVE ESCOGE UNA OPCION************]");
             System.out.println("Opcion [(1)NAVE TRIPULADA] Opcion** [(2)NAVE NO TRIPULADA] Opcion " +
-                    "** [(3)VEHICULO LANZADERA] *****[(4)NAVE REMOTA] ****[(5)SALIR]");
+                    "** [(3)VEHICULO LANZADERA] *****[(4)NAVE REMOTA]");
             System.out.println("Ingresar Opcion::: ");
             option= scan.nextInt();
 
@@ -49,7 +49,7 @@ public class Main {
             }
 
             System.out.println("----------------------------------------------------------------------------------------------------------------");
-            System.out.println(" escribe 5 para continuar y cualquier otro numero para salir: ");
+            System.out.println(" ESCRIBE 5 PARA CONTINUAR Y CUALQUIER OTRO NUMERO PARA SALIR : ");
             optionBucle= scan.nextInt();
 
 
